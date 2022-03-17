@@ -1,4 +1,3 @@
-import email
 from .base_page import BasePage
 from .locators import LoginPageLocators
 import time
